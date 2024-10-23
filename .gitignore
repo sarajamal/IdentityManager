@@ -13,4 +13,4 @@ bin/
 obj/
 
 # إضافة أي ملفات تحتوي على أسرار أخرى
-secrets.json
+EmailSender.cs
